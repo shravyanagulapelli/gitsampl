@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("new sample")
+        print("new sample of git")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
